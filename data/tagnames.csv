@@ -1,0 +1,93 @@
+﻿Distrito
+Comunidad
+DNI_del_ni0
+Edad_meses
+Sexo
+El_ni0_ha_recibido_una_prueb
+Hemoglobina
+Vacunacion
+Edad_de_la_madre_o_cuidador
+Embarazo_por_primera_vez
+Hasta_que_grado_estudiaste_en_
+Controles_prenatales
+Suplementacion_embarazo
+Problemas_embarazo.Anemia
+Lugar_de_parto
+Lactancia_meses
+Tenia_Fiebre_o_tos1
+Cuantos_dias_Fiebre_o_tos2
+Fue_aposta_Fiebre_o_tos3
+Tenia_Diarrea1
+Cuantos_dias_Diarrea2
+Fue_aposta_Diarrea3
+Que_dar_Diarrea4.Nada en especial
+Que_dar_Diarrea4.Sales de rehidratacion
+Que_dar_Diarrea4.Frutiflex o electrolight/1milar
+Diarrea4.Suero casero (preparación hecha en casa)
+Que_Dar_Diarrea4.Zinc
+Que_Dar_Diarrea4.Pastilla antibiotico
+Comorbilidades.Desnutricion cronica
+Comorbilidades.Anemia
+Comorbilidades.Para1to1s
+Comorbilidades.Neumonia
+Comorbilidades.Malaria
+Dar_Suplementacion_hierro
+Dar_Suplementacion_multimicronut0
+Suplementacion_chispitas_meses
+Dar_Despara1tacion
+Household_wealth_tv.radio.teli.cementfloor
+Clean_water_source
+drinks_from_river
+Toilet_sanitary
+toilet_latrina
+toilet_openair
+Tratamiento_de_agua
+Tratamiento_de_agua_formas.La hierven
+Tratamiento_de_agua_formas.Le echan lejia / cloro
+Programa_social.CunaMas - Cuidado Diur0
+Programa_social.CunaMas - SAF
+Programa_social.Juntos
+Programa_social.Vaso de Leche
+Cuantos_Visita_ACS_year
+ACS_ayuda
+z_MOT
+z_COG
+z_LANG
+z_SEM
+z_OVERALL
+Identifier
+Score_beneficios_lm
+score_para_produc_mas_lm
+score_edad_lme
+score_lactancia_prolongada
+score_alimentos_comida_nutritiva
+score_Como_se_da_cuenta_desnutrido
+score_Por_queesta_ni0_desnutrido
+score_Consecuencias_anemia
+score_Preven_anemia
+score_alimentos_ricos_en_hierro
+score_Recomendaciones_mnt
+score_Lavdo_de_ma0s
+score_trat_agua
+score_Prev_diarrea
+score_Prev_malaria
+Total score
+Sex
+Weight
+Height
+age_in_days
+age_in_months
+age_group
+cmeasure
+oedema
+clenhei
+cbmi
+csex
+zlen
+zlen_flag
+zwei
+zwei_flag
+zbmi
+zbmi_flag
+zwfl
+zwfl_flag
